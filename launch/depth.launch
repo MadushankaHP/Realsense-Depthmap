@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="depth_map" type="depthmap.py" name="camdepth" required="true" output="screen">
+  
+  </node> 
+</launch>
