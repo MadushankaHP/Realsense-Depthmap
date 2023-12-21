@@ -10,7 +10,7 @@ Before using this code, make sure you have the following installed:
 2. Intel RealSense SDK - [Installation Guide](https://www.intelrealsense.com/sdk-2/)
 3. ROS Wrapper for Intel RealSense Cameras - [Installation Guide](https://github.com/IntelRealSense/realsense-ros)
 
-## Setup
+**Setup**
 
 1. Clone this repository to your ROS workspace:
 
