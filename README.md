@@ -3,6 +3,7 @@
 This repository contains code for obtaining depth maps using the Intel RealSense D415 camera in a ROS (Robot Operating System) environment.
 
 **Prerequisites**
+
 Before using this code, make sure you have the following installed:
 
 ROS (Robot Operating System) - Installation Guide
