@@ -6,11 +6,9 @@ This repository contains code for obtaining depth maps using the Intel RealSense
 
 Before using this code, make sure you have the following installed:
 
-<ol>
-  <li>ROS (Robot Operating System) - [Installation Guide](https://wiki.ros.org/Installation).</li>
-  <li>Intel RealSense SDK - Installation Guide</li>
-  <li>ROS Wrapper for Intel RealSense Cameras - Installation Guide</li>
-</ol>
+1. [ROS (Robot Operating System) - Installation Guide](https://wiki.ros.org/Installation).
+2. Intel RealSense SDK - Installation Guide
+3. ROS Wrapper for Intel RealSense Cameras - Installation Guide
 
 
 
