@@ -28,6 +28,7 @@ Before using this code, make sure you have the following installed:
 Launch the RealSense D415 camera node:
    ```bash
    roslaunch depth_map depth.launch
+   ```
 
 After running the launch file, you can get the distance between the camera and the selected point by selecting the point with the mouse in the RGB window. As shown in the figure 1 below.
 
