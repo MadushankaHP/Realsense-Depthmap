@@ -31,7 +31,6 @@ Launch the RealSense D415 camera node:
    ```
 
 After running the launch file, you can get the distance between the camera and the selected point by selecting the point with the mouse in the RGB window. As shown in the figure 1 below.
-
-
+![Alt Text](~/depth.png)
 Additionally, a demo video is available [here](https://youtu.be/94TXj-BTWPE).
 
