@@ -67,11 +67,6 @@ def depth_cal(refPt):
         cv2.imshow('rgb', color_image)
         cv2.imshow('depth1',depth_image)
         cv2.imshow('depth2',depth_image2)
-
-     <include file="$(find jetbot_slam)/launch/drive.launch" />y(1) == ord('q'):
-     <include file="$(find jetbot_slam)/launch/drive.launch" />
-     <include file="$(find jetbot_slam)/launch/drive.launch" />
-     <include file="$(find jetbot_slam)/launch/drive.launch" />
     
 if __name__ == "__main__":
     try:
