@@ -16,6 +16,11 @@ Before using this code, make sure you have the following installed:
 
    ```bash
    git clone https://github.com/MadushankaHP/Realsense-Depthmap.git
-
+   
+2. Build the ROS workspace:
+   ```bash
+   cd your_ros_workspace
+   catkin_make
+   source devel/setup.bash
 
 
