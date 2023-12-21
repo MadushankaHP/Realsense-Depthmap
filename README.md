@@ -26,5 +26,5 @@ Before using this code, make sure you have the following installed:
 **Usage**
 Launch the RealSense D415 camera node:
    ```bash
-   roslaunch depth_map depth.launch.launch
+   roslaunch depth_map depth.launch
 
